@@ -26,6 +26,7 @@ O programa foi compilado por nossa parte usando o sistema operativo Linux, distr
 uma GUI diferente) 20.04.3 LTS. Os ficheiros foram compilados usando o openJDK (java development kit) 11.0.14.
 
 FEITO POR:
-Duarte Monteiro
-Hélder Ramos
-Miguel Oliveira
+- Duarte Monteiro
+- Hélder Ramos
+- Miguel Oliveira
+
